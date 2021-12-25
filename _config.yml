@@ -1,0 +1,22 @@
+remote_theme: pmarsceill/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+title: Watchdog Docs
+email: hello@nettech.link
+github_username: net-tech
+
+color_scheme: dark
+
+gh_edit_link: false
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 6
+  preview_words_after: 6
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
