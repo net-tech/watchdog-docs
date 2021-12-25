@@ -20,3 +20,5 @@ search:
   tokenizer_separator: /[\s/]+/
   rel_url: true
   button: false
+
+theme: jekyll-theme-midnight
