@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Watchdog Reference
-nav_order: 2
-description: "Reference"
-permalink: /reference
+title: Reference
+parent: Overview
+nav_order: 1
 ---
 ## Guild Outages
 
